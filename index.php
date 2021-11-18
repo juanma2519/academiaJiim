@@ -78,8 +78,8 @@
         <h1>Academia online de Inglés y Primaria</h1>
         <p>
           Descubre nuestra <b>academia online totalmente personalizada</b> según tus necesidades. Contamos con profesionales certificados,<b> profesores con titulación universitaria</b> en el área de la enseñanza. Con los métodos más actuales 
-          y las adaptaciones curriculares más innovadoras para la educación de tu hijo. Siempre adaptandonos a las necesidades de cada alumno, ya que <b>nuestras clases son uno a uno</b>, un profesor y un alumno. En nuestra sección 
-          de <b>Clases de Primaria</b>, podrás descubrir que también damos clases de <b>primaria bilingües online</b>. Además si tu pasión es aprender Inglés! no dudes en descubrir toda la información sobres nuestras <b>clases online de inglés</b>
+          y las adaptaciones curriculares más innovadoras para la educación de tu hijo. Siempre adaptándonos a las necesidades de cada alumno, ya que <b>nuestras clases son uno a uno</b>, un profesor y un alumno. En nuestra sección 
+          de <b>Clases de Primaria</b>, podrás descubrir que también damos clases de <b>primaria bilingües online</b>. Además si tu pasión es aprender Inglés! no dudes en descubrir toda la información sobre nuestras <b>clases online de inglés</b>
           mediante sus diferentes niveles. Aprenderás inglés de la mano de <b>profesores cualificados y el mejor material</b> adaptado a tus requerimientos.   
         </p>
       </div>

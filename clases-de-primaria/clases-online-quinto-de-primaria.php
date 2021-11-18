@@ -87,11 +87,11 @@ include("../keys.php");
     <div class='gold gold_left_plus'>
       <a class="a_left" href="#form">
         <h2 class="jimmclassname">Jiim Class</h2>
-        <p>Numero minimo de clases</p>
+        <p>Número mínimo de clases</p>
         <span>2 clases a la semana</span>
         <p>Cada alumno es único</p>
         <span>Adaptación curricular</span>
-        <p>Contenido unico para las clases</p>
+        <p>Contenido único para las clases</p>
         <span>Contenido Propio</span>
         <div class='price price_left'>14,99€</div>
         <h2>Clase de 1H</h2>
@@ -163,10 +163,10 @@ include("../keys.php");
     <section>
     <h2 class="tituloParrafo">Somos los mejores y te lo demostramos..</h2>
       <p>
-      Para lograrlo, nos centramos en un desarrollo de las clases totalmente individual y personalizado. De este modo, nuestra metodología 
-      varía dependiendo de lo que requiera cada estudiante. Todo ello a través de la comodidad de tu hogar, sin necesidad de desplazamientos innecesarios. 
-      En Jiim nos interesamos por el progreso académico de cada estudiante, así como de su bienestar y comodidad. Es por ello que garantizamos efectividad y confort a 
-      través de unas clases totalmente online, libres de estrés por tener que llevar al peque corriendo a una academia.
+      Para lograrlo, nos centramos en un <b>desarrollo de las clases totalmente individual y personalizado.</b> De este modo, nuestra <b>metodología</b> 
+      varía dependiendo de lo que requiera cada estudiante. Todo ello a través de la <b>comodidad de tu hogar</b>, sin necesidad de <b>desplazamientos innecesarios.</b> 
+      En Jiim nos interesamos por el <b>progreso académico de cada estudiante</b>, así como de su <b>bienestar</b> y <b>comodidad.</b> Es por ello que garantizamos <b>efectividad y confort</b> a 
+      través de unas <b>clases totalmente online, libres de estrés</b> por tener que llevar al peque corriendo a una academia.
       </p>
     </section>
     <section>

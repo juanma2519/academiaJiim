@@ -309,8 +309,8 @@
               <p>
                 Refuerza o amplia los conocimientos de tu hij@ en el área de Lengua 
                 Castellana y Literatura, <b>reforzaremos su lectoescritura </b>para que no se quede atrás 
-                en su primer año y también ampliaremos y mejoraremos las reglas ortográficas propias 
-                del curso de primero de primaria, así como <b>afianzar el correcto uso de la gramática y su comprensión lectora</b>.
+                en su primer año. También ampliaremos y mejoraremos las reglas ortográficas propias 
+                del curso de primero de Primaria, así como <b>afianzar el correcto uso de la gramática y su comprensión lectora</b>.
               </p>
           </article>
           <article class="cubo cubo-inicio cubo-3 col-right asignatura-texto">
@@ -318,7 +318,7 @@
             Le ayudaremos a <b>reforzar sus conocimientos en matemáticas y solidificar su pensamiento
             lógico y matemático.</b> Enseñaremos conceptos nuevos para poder llegar a un buen nivel 
             en <b>uno de los pilares fundamentales de la educación.</b> Las matemáticas son una de las ramas 
-            troncales en la educación, <b>aprendelas en nuestras clases online.</b>
+            troncales en la educación, <b>apréndelas en nuestras clases online.</b>
             </p>
           </article>
           <article class="cubo cubo-inicio cubo-3 col-left">
@@ -341,15 +341,15 @@
           </article>
           <article class="cubo cubo-inicio cubo-3 col-right asignatura-texto">
               <p>
-              Tanto <b>en Castellano como en Inglés,</b> nuestros profesores ayudaran al estudiante a 
-              entender las Ciencias Naturales o Natural Sciences. <b>Descubriremos la biológia, geológia,
-              anatomía y diferentes ciencias</b> que enseñaran a tu hijo los secretos de nuestro planeta. 
+              Tanto <b>en Castellano como en Inglés,</b> nuestros profesores ayudarán al estudiante a 
+              entender las Ciencias Naturales o Natural Sciences. <b>Descubriremos la Biología, Geología,
+              Anatomía y otras ciencias,</b> que enseñarán a tu hijo los secretos de nuestro planeta. 
               No te quedes quieto y descubre nuestras <b>clases de Natural Sciences online.</b>
               </p>
           </article>
           <article class="cubo cubo-inicio cubo-3 col-right asignatura-texto">
             <p>
-            También hay que saber de <b>geografía, cultura e historia entre otras cosas.</b> Las Social Sciences 
+            También hay que saber de <b>Geografía, Cultura e Historia, entre otras cosas.</b> Las Social Sciences 
             o Ciencias Sociales <b>abordan puntos importantes que un estudiante debe aprender. </b>
             Apoyaremos al estudiante para<b> reforzar o ampliar conocimientos</b> en esta asignatura que nos descubre
             la parte social y humana de nuestro planeta.
@@ -367,15 +367,15 @@
         </div>
         <h2 class="tituloParrafo">En Jiim somos bilingües, por eso somos los mejores.</h2>
         <p>
-          Si deseas entrar en nuestra academia online de primaria o en nuestra academia online de inglés, <b>no dudes en contactar con nosotros</b> a traves de nuestro teléfono y nuestro correo electrónico.
-          Rellenalo o contacta con nosotros y <b>en menos de 24h tendrás respuesta a tus dudas o preguntas.</b> Sin moverte de casa, con la mayor comodidad y <b>teniendo siempre el control del estudiante y sus conocimientos.</b>
+          Si deseas entrar en nuestra academia online de primaria o en nuestra academia online de inglés, <b>no dudes en contactar con nosotros</b> a través de nuestro teléfono y/o correo electrónico.
+          Rellénalo o contacta con nosotros, y <b>en menos de 24h tendrás respuesta a tus dudas o preguntas.</b> Sin moverte de casa, con la mayor comodidad y <b>teniendo siempre el control del estudiante y sus conocimientos.</b>
         </p>
         <h3 class="tituloParrafo2">
           Porque los niños, son mucho más que niños.
         </h3>
         <p>
           <b>Entendemos las dificultades de un padre o una madre</b> a la hora de criar a un hij@. Por eso <b>somos flexibles y te lo ponemos fácil.</b>
-          Conjuga tu horario como quieras y complementalo con el resto de sus clases particulares, con tu trabajo o con cualquier contratiempo.
+          Conjuga tu horario como quieras y compleméntalo con el resto de sus clases particulares, con tu trabajo o con cualquier contratiempo.
           <b>Te ayudamos a encontrar el mejor horario enfocado a tus necesidades.</b> Clases online sin que pierdas tiempo en desplazamientos innecesarios.
           Descubre nuestra fórmula y <b>disfruta con nuestro increíble trabajo.</b>
         </p>
@@ -387,7 +387,7 @@
             <h2>Clase de 1H</h2>
           </ul>
           <ul class="columns_price">
-            <p>Numero minimo de clases</p>
+            <p>Número mínimo de clases</p>
             <span>2 clases a la semana</span>
           </ul>
           <ul class="columns_price">
@@ -395,7 +395,7 @@
             <span>Adaptación curricular</span>
           </ul>
           <ul class="columns_price">
-            <p>Contenido unico para las clases</p>
+            <p>Contenido único para las clases</p>
             <span>Contenido Propio</span>
           </ul>
           <ul class="columns_price"> 

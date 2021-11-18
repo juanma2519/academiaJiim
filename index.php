@@ -90,7 +90,7 @@
             <h2>Clase de 1H</h2>
           </ul>
           <ul class="columns_price">
-            <p>Numero mínimo de clases</p>
+            <p>Número mínimo de clases</p>
             <span>2 clases a la semana</span>
           </ul>
           <ul class="columns_price">
@@ -121,7 +121,7 @@
               />
               <h3 class="titulo3">Primaria</h3>
               <p>
-              Descubre ya porqué somos los mejores dando clases online de primaria! Te ayudamos a aprobar primaria!!
+              Descubre ya por qué somos los mejores dando clases online de primaria. ¡Te ayudamos a aprobar primaria!
               </p></a
             >
           </article>
@@ -138,14 +138,14 @@
               />
               <h3 class="titulo3">Inglés</h3>
               <p>
-                Conoce nuestro método para aprender inglés de la mejor manera! Entra a nuestras clases particulares de Inglés Online!!
+                Conoce nuestro método para aprender inglés de la mejor manera. ¡Entra a nuestras clases particulares de Inglés Online!
               </p></a
             >
           </article>
           <article class="cubo cubo-inicio">
             <a
               href="./quienes-somos.html"
-              title="Quienes somos"
+              title="Quiénes somos"
             >
               <img
                 src="./images/inicio/quienes-somos-academia-Jiim.webp"
@@ -153,7 +153,7 @@
                 title="Quienes somos"
                 width="465" height="310"
               />
-              <h3 class="titulo3">Quienes Somos</h3>
+              <h3 class="titulo3">Quiénes Somos</h3>
               <p>
                 Te presentamos a nuestro equipo, que tengas la seguridad del equipo humano que hay detrás de la educación de tu hijo.
               </p></a
@@ -172,7 +172,7 @@
               />
               <h3 class="titulo3">Contacto</h3>
               <p>
-                Contacta con nosotros ante cualquier duda y te atenderemos como sólo nosotros sabemos!
+                ¡Contacta con nosotros ante cualquier duda y te atenderemos como sólo nosotros sabemos!
               </p></a
             >
           </article>
@@ -180,11 +180,11 @@
         <h2 class="tituloParrafo">Jiim, nuestra personalidad más especial.</h2>
         <p>
           Si deseas entrar en nuestra <b>academia online de primaria</b> o en nuestra <b>academia 
-            online de inglés</b>, no dudes en contactar con nosotros a traves de nuestro 
-          teléfono y nuestro correo electrónico. Apoyaremos a tu hijo, creando un <b>sistema pedagógico adaptado</b> a sus necesidades,
+            online de inglés</b>, no dudes en contactar con nosotros a través de nuestro número de
+          teléfono y/o correo electrónico. Apoyaremos a tu hijo, creando un <b>sistema pedagógico adaptado</b> a sus necesidades,
           y como papá o mamá, <b>podrás ver a tu hijo</b> a través de las clases online, conociendo a su profesor
           de primera mano y viendo el avance y el buen trato por parte del profesor asignado.
-          No lo dudes, <b>DESCUBRENOS!</b>
+          No lo dudes, <b>¡DESCÚBRENOS!</b>
         </p>
         <div class="column2 column2_contact2">
             <form action="recaptcha.php" method="post" id="form" class="form_background">

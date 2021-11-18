@@ -193,18 +193,18 @@
             />
               <h3 class="titulo3">Sexto</h3>
               <p>
-              Acabamos la base de su educación asentando las bases del estudiante para afrontar secundaria
+              Acabamos la educación Primaria asentando las bases de los contenidos para que el estudiante pueda afrontar la secundaria
               </p></a
             >
           </article>
         </div>
         <h2 class="tituloParrafo">En Jiim somos bilingües, por eso somos los mejores.</h2>
         <p>
-        Si deseas que acompañen a tu hijo o hija por el sendero de primaria <b>para hacerselo más fácil,</b> 
-        contacta con nosotros a traves de nuestro teléfono o de nuestro correo electrónico. 
-        Acompañaremos a tu hijo, creando un <b>sistema pedagógico online adaptado a primaria</b>. 
+        Si deseas que acompañen a tu hijo o hija por el sendero de Primaria, <b>y que le resulte más fácil,</b> 
+        contacta con nosotros a través de nuestro teléfono o del correo electrónico. 
+        Acompañaremos a tu hijo, creando un <b>sistema pedagógico online adaptado a Primaria</b>. 
         Podrás ver el avance del alumno y comentarlo mano a mano con nuestros profesores. Verás que
-        <b>no estás sólo en la educación de tu hijo o hija</b>. Descubre nuestras clases online de primaria, <b>Contactanos!</b>
+        <b>no estás sólo en la educación de tu hijo o hija</b>. Descubre nuestras clases online de Primaria, <b>¡contáctanos!</b>
         </p>
       </section>
       <section>
@@ -225,7 +225,7 @@
                 <div class="row">
                   <div>
                     <label for="lname" class="subject_label">Email</label>
-                    <input type="email" id="email" name="email" placeholder="Tú email.." required >
+                    <input type="email" id="email" name="email" placeholder="Tu email.." required >
                   </div>
                 </div>
                 <div class="row">
@@ -258,19 +258,19 @@
             <p class="phone_text"><i class="fa fa-phone"></i> Llama ahora al <a href="tel:608249965" class="phone_number">608249965</a></p>
         </div>
         <div class="column3 column3_2">
-            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> Mándanos un whatsapp!</p></a>
+            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> ¡Mándanos un whatsapp!</p></a>
         </div>
       </section>
       <section>
         <div class="productos asignaturas">
         <h3 class="tituloParrafo2">
-          Cursamos todas las asignaturas! Tanto en castellano como en bilingüe
+          ¡Cursamos todas las asignaturas! Tanto en castellano como en bilingüe
         </h3>
         <p>
           Impartimos nuestras clases <b>con nuestro propio material</b>, basándonos en el contenido que 
-          tu hijo de en sus clases habituales. Nosotros le explicaremos todas las dudas 
-          y <b>solidificaremos los conocimientos</b> adquiridos con más práctica y ejercicios especificos 
-          para cada contenido de las diferentes materias. Ponemos <b>especial énfasis en sus necesidades,</b>
+          tu hijo de en sus clases habituales. Nosotros le explicaremos todas las dudas, 
+          y <b>solidificaremos los conocimientos</b> adquiridos. Todo ello a través de la práctica y resolución de ejercicios basados
+          en los contenidos de las diferentes materias. Ponemos <b>especial énfasis en sus necesidades,</b>
           atendiendo a sus dificultades y analizando sus requerimientos.
         </p>
         <div class="columns">
@@ -280,7 +280,7 @@
             <h2>Clase de 1H</h2>
           </ul>
           <ul class="columns_price">
-            <p>Numero minimo de clases</p>
+            <p>Número mínimo de clases</p>
             <span>2 clases a la semana</span>
           </ul>
           <ul class="columns_price">
@@ -288,7 +288,7 @@
             <span>Adaptación curricular</span>
           </ul>
           <ul class="columns_price">
-            <p>Contenido unico para las clases</p>
+            <p>Contenido único para las clases</p>
             <span>Contenido Propio</span>
           </ul>
           <ul class="columns_price">

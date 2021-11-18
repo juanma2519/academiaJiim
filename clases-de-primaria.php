@@ -125,7 +125,7 @@
             />
               <h3 class="titulo3">Segundo</h3>
               <p>
-              En segundo intentaremos solidificar la base adquirida en primero ampliando conocimientos en cada área especifica
+              En segundo intentaremos solidificar la base que fue adquirida en primero, ampliando conocimientos en cada área específica
               </p></a
             >
           </article>
@@ -142,7 +142,7 @@
             />
               <h3 class="titulo3">Tercero</h3>
               <p>
-              Entramos en el ecuador de su etapa en primaria y es importante avanzar contenidos de cara a su etapa final 
+              Entramos en el Ecuador de la etapa de primaria y es importante avanzar contenidos de cara al último curso
               </p></a
             >
           </article>
@@ -159,7 +159,7 @@
             />
               <h3 class="titulo3">Cuarto</h3>
               <p>
-              Cuarto es el ecuador antes de entrar en la madurez de primaria y empezar a pensar ya en la etapa del instituto
+              Cuarto es la etapa existente antes de entrar en la madurez y empezar a pensar ya en la fase del instituto
               </p></a
             >
           </article>
@@ -176,7 +176,7 @@
             />
               <h3 class="titulo3">Quinto</h3>
               <p>
-              Desde quinto vemos ya el final a su etapa, preparando a nuestros futuros alumnos de secundaria
+              En quinto vamos observando el final de su etapa en Primaria, preparando a nuestros futuros alumnos de secundaria
               </p></a
             >
           </article>

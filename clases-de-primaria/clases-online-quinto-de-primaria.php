@@ -220,7 +220,7 @@ include("../keys.php");
             <p class="phone_text"><i class="fa fa-phone"></i> Llama ahora al <a href="tel:608249965" class="phone_number">608249965</a></p>
           </div>
           <div class="column3 column3_2">
-            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> Mándanos un whatsapp!</p></a>
+            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> ¡Mándanos un whatsapp!</p></a>
           </div>
     </section>
     <section>
@@ -228,20 +228,20 @@ include("../keys.php");
         Porque los niños, son mucho más que niños.
       </h3>
       <p>
-      . Cabe mencionar que con la ayuda de nuestros/as docentes 
-      titulados en el sector educativo, el/la estudiante podrá 
-      conseguir unos resultados óptimos. No obstante, es de vital 
+      Cabe mencionar que con la ayuda de nuestros/as <b>docentes 
+      titulados en el sector educativo,</b> el/la estudiante podrá 
+      conseguir unos <b>resultados óptimos.</b> No obstante, es de vital 
       importancia combinar la ayuda de dicho/a docente con un ambiente 
-      de constancia, trabajo y esfuerzo. En otras palabras, invertir 
-      tiempo para el trabajo personal de cada alumno/a en cada una 
-      de las materias. En nuestra academia online podrás ahorrar 
-      tiempo, y así poder invertirlo en otro tipo de actividades 
+      de <b>constancia, trabajo y esfuerzo.</b> En otras palabras, <b>invertir 
+      tiempo para el trabajo personal de cada alumno/a</b> en cada una 
+      de las materias. En nuestra academia online podrás <b>ahorrar 
+      tiempo,</b> y así poder invertirlo en otro tipo de actividades 
       que también requieran de tu atención. En Jiim estamos deseando 
-      poder ayudarte y facilitarte un poco más las cosas, especialmente 
-      en algo tan importante como lo es la educación de los/as más 
-      pequeños/as. Si deseas información no dudes en contactar con 
-      nosotros. Estaremos encantados de resolver tus dudas, ya que 
-      gracias a ti seguimos creciendo cada día.
+      poder <b>ayudarte y facilitarte un poco más las cosas,</b> especialmente 
+      en algo tan importante como lo es la <b>educación de los/as más 
+      pequeños/as.</b> Si deseas información <b>no dudes en contactar con 
+      nosotros.</b> Estaremos encantados de resolver tus dudas, ya que 
+      <b>gracias a ti seguimos creciendo cada día.</b>
       </p>
     </section>
     <div class="columns">

@@ -75,12 +75,12 @@ include("../keys.php");
     <div class="main_title">
       <h1>Quinto de Primaria Online</h1>
       <p>
-      ¡Por fin has llegado al tercer ciclo de primaria! Se trata de un ciclo formado por 
-      los dos últimos cursos, en los cuales nos damos cuenta que los peques son más mayores. 
-      En quinto de primaria su autonomía es mucho más notoria en comparación a cursos anteriores. 
-      No obstante, siguen necesitando apoyo académico tanto dentro como fuera del centro escolar. 
-      En Jiim les proporcionamos esa ayuda a través de nuestras clases 100% online, e impartidas por nuestros/as docentes altamente cualificados. 
-      Gracias a ello, los/as peques serán capaces de mejorar en el ámbito académico mediante el repaso y refuerzo de los contenidos estudiados dentro 
+      <b>¡Por fin has llegado al tercer ciclo de primaria!</b> Se trata de un ciclo formado por 
+      los dos últimos cursos, en los cuales nos damos cuenta que <b>los peques son más mayores.</b> 
+      En quinto de primaria <b>su autonomía es mucho más notoria en comparación a cursos anteriores.</b> 
+      No obstante, <b>siguen necesitando apoyo académico</b> tanto dentro como fuera del centro escolar. 
+      En Jiim les proporcionamos esa ayuda a través de nuestras <b>clases 100% online,</b> e impartidas por nuestros/as <b>docentes altamente cualificados.</b> 
+      Gracias a ello, los/as peques serán capaces de <b>mejorar en el ámbito académico</b> mediante el <b>repaso y refuerzo</b> de los contenidos estudiados dentro 
       del aula. 
       </p>
     </div>

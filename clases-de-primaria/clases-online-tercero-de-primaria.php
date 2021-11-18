@@ -217,7 +217,7 @@
             <p class="phone_text"><i class="fa fa-phone"></i> Llama ahora al <a href="tel:608249965" class="phone_number">608249965</a></p>
           </div>
           <div class="column3 column3_2">
-            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> Mándanos un whatsapp!</p></a>
+            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> ¡Mándanos un whatsapp!</p></a>
           </div>
     </section>
     <section>
@@ -226,13 +226,13 @@
       </h3>
       <p>
       <b>Cuando un/a niño/a no consigue alcanzar sus propios objetivos, se puede sentir 
-        frustrado.</b> También puede ocurrir si siente que constantemente saca peores notas
-        que el resto de sus compañeros. Esto puede llevarle a evitar el estudio lo 
+        frustrado/a.</b> También puede ocurrir si siente que constantemente saca peores notas
+        que el resto de sus compañeros/as. Esto puede llevarle a evitar el estudio lo 
         máximo posible. Y no queremos que eso ocurra, porque <b>estudiar y aprender es algo
         bueno a la par que divertido (si se hace de la manera adecuada).</b>
-        Es muy importante hacer que el niño se sienta cómodo, y que llegue a 
+        Es muy importante hacer que el/la niño/a se sienta cómodo/a, y que llegue a 
         entender mejor esa asignatura que tanto le cuesta. <b>Al conseguir eso, 
-        el niño se sentirá mejor consigo mismo,</b> y verá que es capaz de lograr lo 
+        el/la niño/a se sentirá mejor consigo mismo/a,</b> y verá que es capaz de lograr lo 
         que se proponga. 
       </p>
     </section>
@@ -243,7 +243,7 @@
             <h2>Clase de 1H</h2>
           </ul>
           <ul class="columns_price">
-            <p>Numero minimo de clases</p>
+            <p>Número mínimo de clases</p>
             <span>2 clases a la semana</span>
           </ul>
           <ul class="columns_price">
@@ -251,7 +251,7 @@
             <span>Adaptación curricular</span>
           </ul>
           <ul class="columns_price">
-            <p>Contenido unico para las clases</p>
+            <p>Contenido único para las clases</p>
             <span>Contenido Propio</span>
           </ul>
           <ul class="columns_price"> 

@@ -156,7 +156,7 @@
       </div>
     </section>
     <section>
-    <h2 class="tituloParrafo">Tenemos las mejores clases particulares online!</h2>
+    <h2 class="tituloParrafo">¡Tenemos las mejores clases particulares online!</h2>
       <p>
       En nuestras clases particulares online, <b>estas materias serán impartidas de forma personalizada.</b> 
       El principal objetivo es <b>otorgar al alumno/a la ayuda que necesita para poder superar con éxito 
@@ -217,7 +217,7 @@
             <p class="phone_text"><i class="fa fa-phone"></i> Llama ahora al <a href="tel:608249965" class="phone_number">608249965</a></p>
           </div>
           <div class="column3 column3_2">
-            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> Mándanos un whatsapp!</p></a>
+            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> ¡Mándanos un whatsapp!</p></a>
           </div>
     </section>
       <h3 class="tituloParrafo2">
@@ -240,7 +240,7 @@
             <h2>Clase de 1H</h2>
           </ul>
           <ul class="columns_price">
-            <p>Numero minimo de clases</p>
+            <p>Número mínimo de clases</p>
             <span>2 clases a la semana</span>
           </ul>
           <ul class="columns_price">
@@ -248,7 +248,7 @@
             <span>Adaptación curricular</span>
           </ul>
           <ul class="columns_price">
-            <p>Contenido unico para las clases</p>
+            <p>Contenido único para las clases</p>
             <span>Contenido Propio</span>
           </ul>
           <ul class="columns_price"> 
@@ -258,7 +258,7 @@
       </div>
       </section>
       <h3 class="tituloParrafo2">
-        Nuestras ventajas te convenceran, nuestro trabajo hará que te quedes.
+        Nuestras ventajas te convencerán, nuestro trabajo hará que te quedes.
       </h3>
       <p>
       <b>En Jiim cuentas con un gran número de ventajas,</b> y entre ellas está la <b>comodidad de recibir las explicaciones 

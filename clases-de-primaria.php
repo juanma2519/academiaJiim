@@ -22,7 +22,7 @@
     />
     <meta
       property="og:description"
-      content="Te ofrecemos la mejor academia online de primaria para todos los cursos. Deja a tu hijo en buenas manos!"
+      content="Te ofrecemos la mejor academia online de primaria para todos los cursos. ¡Deja a tu hijo en buenas manos!"
     />
     <meta property="og:image" content="https://academiajiim.online/images/redes_primaria.png" />
     <meta property="og:url" content="https://academiajiim.online/" />

@@ -72,11 +72,11 @@
       <div class="main_title">
         <h1>Clases de Primaria Online</h1>
         <p>
-        <b>Bienvenido a la etapa de primaria!!</b> En Jiim acompañaremos tanto a ti papa o mama, como al estudiante a través de esta etapa tan especial e importante. Con nuestras <b>clases 
-          de primaria online</b> tendremos un aprendizaje continuo, especializado y único para cada estudiante. Nuestras <b>clases online de 1 hora uno a uno</b> ayudan a centrar el aprendizaje 
-          ya que mejora la <b>atención única del profesor al alumno</b>. Nuestra academia online de primaria te ayudará en todo momento conseguir que el estudiante aprenda todo lo necesario 
-          en <b>esta etapa que pone las bases de su educación</b>. Por ello también entendemos que <b>es necesario al menos dar 2 clases a la semana </b>para poder hacer un seguimiento correcto y 
-          especifico. Contacta con nosotros y <b>descubre nuestro método!</b>
+        <b>¡Bienvenido a la etapa de primaria!</b> En Jiim acompañaremos tanto a papá o mamá, como al estudiante a través de esta etapa tan especial e importante. Con nuestras <b>clases 
+          de primaria online</b> tendremos un aprendizaje continuo, especializado y único para cada estudiante. Nuestras <b>clases online de 1 hora "one to one"</b> ayudan a centrar el aprendizaje, 
+          ya que fomenta la <b>exclusiva atención del profesor hacia el/la alumno/a</b>. Nuestra academia online de primaria te ayudará en todo momento conseguir que el estudiante aprenda todo lo necesario 
+          en <b>esta etapa que asienta las bases de su educación</b>. Por ello, también entendemos que <b>es necesario dar al menos 2 clases a la semana </b>. De esta manera, podremos hacer un seguimiento correcto y 
+          específico. ¡Contacta con nosotros y <b>descubre nuestro método!</b>
         </p>
       </div>
       <a class="a_left" href="#form">

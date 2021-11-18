@@ -160,7 +160,7 @@ include("../keys.php");
       </div>
     </section>
     <section>
-    <h2 class="tituloParrafo">En Jiim cada estudiante es únic@!</h2>
+    <h2 class="tituloParrafo">¡En Jiim cada estudiante es únic@!</h2>
       <p>
       Con nuestras clases particulares 100% online <b>le daremos la oportunidad al niño/a de mejorar en todas 
       aquellas asignaturas que precise.</b> Todo ello será posible gracias al trabajo de nuestros/as docentes
@@ -220,11 +220,11 @@ include("../keys.php");
             <p class="phone_text"><i class="fa fa-phone"></i> Llama ahora al <a href="tel:608249965" class="phone_number">608249965</a></p>
           </div>
           <div class="column3 column3_2">
-            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> Mándanos un whatsapp!</p></a>
+            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> ¡Mándanos un whatsapp!</p></a>
           </div>
     </section>
       <h3 class="tituloParrafo2">
-        Aprovecha nuestras grandes ventajas..
+        Aprovecha nuestras grandes ventajas...
       </h3>
       <p>
         Es hora de ponerte en marcha, y aprovechar las ventajas que ofrece nuestra 
@@ -243,7 +243,7 @@ include("../keys.php");
             <h2>Clase de 1H</h2>
           </ul>
           <ul class="columns_price">
-            <p>Numero minimo de clases</p>
+            <p>Número mínimo de clases</p>
             <span>2 clases a la semana</span>
           </ul>
           <ul class="columns_price">
@@ -251,7 +251,7 @@ include("../keys.php");
             <span>Adaptación curricular</span>
           </ul>
           <ul class="columns_price">
-            <p>Contenido unico para las clases</p>
+            <p>Contenido único para las clases</p>
             <span>Contenido Propio</span>
           </ul>
           <ul class="columns_price"> 
@@ -261,7 +261,7 @@ include("../keys.php");
     </div>
     </section>
       <h3 class="tituloParrafo2">
-        Y para ti papá o mamá, dejamos el estrés a un lado..
+        Y para ti papá o mamá, dejamos el estrés a un lado...
       </h3>
       <p>
       Asistir presencialmente a una academia requiere tiempo, y muchas veces vas con prisa para poder llegar puntual. 

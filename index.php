@@ -203,7 +203,7 @@
               <div class="row">
                 <div>
                   <label for="lname" class="subject_label">Email</label>
-                  <input type="email" id="email" name="email" placeholder="Tú email.." required>
+                  <input type="email" id="email" name="email" placeholder="Tu email.." required>
                 </div>
               </div>
               <div class="row">
@@ -241,15 +241,15 @@
             <p class="phone_text"><i class="fa fa-phone"></i> Llama ahora al <a href="tel:608249965" class="phone_number">608249965</a></p>
         </div>
         <div class="column3 column3_2">
-            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> Mándanos un whatsapp!</p></a>
+            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> ¡Mándanos un whatsapp!</p></a>
         </div>
         <h3 class="tituloParrafo2">
           Porque los niños, son mucho más que niños
         </h3>
         <p>
           Impartimos nuestras clases <b>con nuestro propio material</b>, basándonos en el contenido que 
-          tu hijo de en sus clases habituales. Nosotros le explicaremos todas las dudas 
-          y <b>solidificaremos los conocimientos</b> adquiridos con más práctica y ejercicios especificos 
+          tu hijo estudia en sus clases habituales. Nosotros le explicaremos todas las dudas 
+          y <b>solidificaremos los conocimientos</b> adquiridos con más práctica y ejercicios específicos 
           para cada contenido de las diferentes materias. Ponemos <b>especial énfasis en sus necesidades,</b>
           atendiendo a sus dificultades y analizando sus requerimientos.
         </p>
@@ -261,7 +261,7 @@
             <h2>Clase de 1H</h2>
           </ul>
           <ul class="columns_price">
-            <p>Numero minimo de clases</p>
+            <p>Número mínimo de clases</p>
             <span>2 clases a la semana</span>
           </ul>
           <ul class="columns_price">
@@ -269,7 +269,7 @@
             <span>Adaptación curricular</span>
           </ul>
           <ul class="columns_price">
-            <p>Contenido unico para las clases</p>
+            <p>Contenido único para las clases</p>
             <span>Contenido Propio</span>
           </ul>
           <ul class="columns_price"> 
@@ -279,7 +279,7 @@
       </div>
       <section>
         <h3 class="tituloParrafo2">
-          Tu comodidad es lo más importante papá y mamá..
+          Tu comodidad es lo más importante, papá y mamá..
         </h3>
         <p>
         <b>Se acabó el tener que perder tiempo y dinero en moverse de un lugar a otro,</b> 
@@ -297,7 +297,7 @@
         </h3>
         <ul>
           <li><b>Nuestras clases online se llevarán a cabo a través del programa Skype. </b>Deberás descargarlo en el dispositivo que vayas a utilizar para recibir tus clases. <b>En Jiim consideramos que se trata de una herramienta accesible, fácil de utilizar y altamente eficaz. </b>Entre otras cosas, podremos mantener una conversación en tiempo real profesor-alumno, compartir archivos, así como utilizar esos emoticonos que tanto nos gustan.</li>
-          <li>Para que las clases de desarrollen de la manera más satisfactoria posible, <b>es necesario que el dispositivo cuente con una conexión Wifi de alta calidad.</b> De esta manera, las clases serán más eficaces y se podrá aprovechar mejor el tiempo.</li>
+          <li>Para que las clases se desarrollen de la manera más satisfactoria posible, <b>es necesario que el dispositivo cuente con una conexión Wifi de alta calidad.</b> De esta manera, las clases serán más eficaces y se podrá aprovechar mejor el tiempo.</li>
           <li>Por último, <b>necesitarás una cámara web que sea al menos de 720 píxeles.</b> Esto hará que la calidad de la videollamada mejore, y <b>sea más cercana y natural la relación establecida entre el alumno/a y el/la docente.</b></li>
         </ul>
       </section>

@@ -39,7 +39,7 @@
         "@context": "http://www.schema.org",
         "@type": "WebSite",
         "name": "▷ Clases de ingles todos los niveles | academiajiim.online",
-        "alternateName": "▷ Clases de ingles todos los niveles ",
+        "alternateName": "▷ Clases de inglés todos los niveles ",
         "url": "https://academiajiim.online"
       }
     </script>
@@ -84,11 +84,11 @@
       <a class="a_left" href="#form">
       <div class='gold gold_left'>
         <h2 class="jimmclassname">Jiim Class</h2>
-        <p>Numero minimo de clases</p>
+        <p>Número mínimo de clases</p>
         <span>2 clases a la semana</span>
         <p>Cada alumno es único</p>
         <span>Adaptación curricular</span>
-        <p>Contenido unico para las clases</p>
+        <p>Contenido único para las clases</p>
         <span>Contenido Propio</span>
         <p>Desde</p>
         <div class='price price_left'>14,99€</div>
@@ -106,7 +106,7 @@
             <img
             src="./images/primaria/clases-online-ingles-nivel-a1.webp"
             alt="Clases Ingles A1 Online"
-            title="Clases Ingles A1 Online"
+            title="Clases Inglés A1 Online"
             width="579" height="385"
             />
               <h3 class="titulo3">A1</h3>
@@ -130,7 +130,7 @@
             />
               <h3 class="titulo3">A2</h3>
               <p>
-                Si ya eres un entendido en esto del inglés, ¡te ayudamos a ampliar conocimientos!
+                Si ya eres un entendido en esto del Inglés, ¡te ayudamos a ampliar conocimientos!
               </p>
               <div class="cubo_price">14,99€</div></a
             >
@@ -148,7 +148,7 @@
             />
               <h3 class="titulo3">B1</h3>
               <p>
-                Quieres aplicar el Inglés a tu día a día, nosotros te lo ponemos lo más fácil posible.
+                ¿Quieres aplicar el Inglés en tu día a día? Nosotros te lo ponemos lo más fácil posible.
               </p> <div class="cubo_price">16,99€</div></a
             >
           </article>
@@ -199,7 +199,7 @@
             />
               <h3 class="titulo3">C2</h3>
               <p>
-                Adquiere la titulación nativa, aprende todos los entresijos del idioma y sé el/la crack del Inglés!
+                Adquiere la titulación nativa, aprende todos los entresijos del idioma,¡y sé el/la crack del Inglés!
               </p><div class="cubo_price">18,99€</div></a
             >
           </article>
@@ -232,7 +232,7 @@
                 <div class="row">
                   <div>
                     <label for="lname" class="subject_label">Email</label>
-                    <input type="email" id="email" name="email" placeholder="Tú email.." required >
+                    <input type="email" id="email" name="email" placeholder="Tu email.." required >
                   </div>
                 </div>
                 <div class="row">
@@ -266,13 +266,13 @@
             <p class="phone_text"><i class="fa fa-phone"></i> Llama ahora al <a href="tel:608249965" class="phone_number">608249965</a></p>
         </div>
         <div class="column3 column3_2">
-            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> Mándanos un whatsapp!</p></a>
+            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> ¡Mándanos un whatsapp!</p></a>
         </div>
       </section>
       <section>
         <div class="productos asignaturas">
         <h3 class="tituloParrafo2">
-          Cursamos todas las asignaturas! Tanto en castellano como en bilingüe
+          ¡Cursamos todas las asignaturas! Tanto en castellano como en bilingüe
         </h3>
         <p>
         <b>Con estas clases online te ayudaremos no sólo a aprobar la asignatura, sino también a entenderla; y comprender
@@ -289,7 +289,7 @@
             <h2>Clase de 1H</h2>
           </ul>
           <ul class="columns_price">
-            <p>Numero minimo de clases</p>
+            <p>Número mínimo de clases</p>
             <span>2 clases a la semana</span>
           </ul>
           <ul class="columns_price">
@@ -297,7 +297,7 @@
             <span>Adaptación curricular</span>
           </ul>
           <ul class="columns_price">
-            <p>Contenido unico para las clases</p>
+            <p>Contenido único para las clases</p>
             <span>Contenido Propio</span>
           </ul>
           <ul class="columns_price">
@@ -316,14 +316,14 @@
           </article>
           <article class="cubo cubo-inicio cubo-3 col-right asignatura-texto">
               <p>
-               <b>Tienes que hacer el oido, para poder afinar el listening.</b> En nuestras clases online de inglés practicamos todos los días el habla y tendrás que escuchar a tu profesor,
-               <b>te recomendaremos series y música para que vayas familiarizandote</b> con este precioso idioma. <b>Porque no todo tiene que ser aburrido!</b>
+               <b>Tienes que acostumbrar el oído para poder mejorar en el listening.</b> En nuestras clases online de Inglés practicamos todos los días el habla y tendrás que escuchar a tu profesor.
+               <b>Te recomendaremos series y música para que vayas familiarizándote</b> con este precioso idioma. <b>¡Porque no todo tiene que ser aburrido!</b>
               </p>
           </article>
           <article class="cubo cubo-inicio cubo-3 col-right asignatura-texto">
             <p>
-            <b>Mejora tu capacidad de redacción</b> o empieza de cero. Nosotros <b>tenemos todos los niveles y tu tienes que ser capaz de conseguir el más alto.</b>
-            Te enseñamos a redactar mejor tus textos, técnicas de escritura y <b>el mejor apoyo para que te resulte sencillo y ameno!</b>
+            <b>Mejora tu capacidad de redacción</b> o empieza desde cero. Nosotros <b>tenemos todos los niveles, y tú tienes que ser capaz de conseguir el más alto.</b>
+            Te enseñamos a redactar mejor tus textos, técnicas de escritura y <b>el mejor apoyo para que te resulte sencillo y ameno.</b>
             </p>
           </article>
           <article class="cubo cubo-inicio cubo-3 col-left">
@@ -346,9 +346,9 @@
           </article>
           <article class="cubo cubo-inicio cubo-3 col-right asignatura-texto">
               <p>
-              <b>Te ayudamos a mejorar el speaking.</b> A tener esa fluidez en la conversación para poder aplicar a esa oferta de trabajo, 
-                continuar ese máster en inglés y <b>muchas más cosas que podrás realizar mejorando tu nivel de conversación.</b> Te ayudamos con nuestras clases online de inglés
-                a la pronunciación y a tener un nivel alto de conversación.
+              <b>Te ayudamos a mejorar el speaking,</b> y así tener esa fluidez en una conversación. Podrás aplicar a una oferta de trabajo, 
+                continuar ese máster en Inglés, y <b>un sinfín de cosas que serás capaz de realizar si incrementas tu capacidad de conversar en Inglés.</b> Te ayudamos con nuestras clases online
+                en la pronunciación y a tener un nivel alto de conversación.
               </p>
           </article>
           <article class="cubo cubo-inicio cubo-3 col-right asignatura-texto">

@@ -82,11 +82,11 @@
       <a class="a_left" href="#form">
       <div class='gold gold_left'>
         <h2 class="jimmclassname">Jiim Class</h2>
-        <p>Numero minimo de clases</p>
+        <p>Número mínimo de clases</p>
         <span>2 clases a la semana</span>
         <p>Cada alumno es único</p>
         <span>Adaptación curricular</span>
-        <p>Contenido unico para las clases</p>
+        <p>Contenido único para las clases</p>
         <span>Contenido Propio</span>
         <div class='price price_left'>14,99€</div>
         <h2>Clase de 1H</h2>
@@ -234,7 +234,7 @@
                   <div>
                     <label for="country" class="subject_label">Asignatura</label>
                     <select id="classrom" name="classrom">
-                      <option value="lengua">Lenguage</option>
+                      <option value="lengua">Language</option>
                       <option value="matemáticas">Maths</option>
                       <option value="naturales">Natural Sciences</option>
                       <option value="sociales">Social Sciences</option>

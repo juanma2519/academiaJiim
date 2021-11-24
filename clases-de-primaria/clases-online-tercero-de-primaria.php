@@ -193,7 +193,7 @@
                 <div>
                   <label for="country" class="subject_label">Asignatura</label>
                   <select id="classrom" name="classrom">
-                    <option value="lengua">Lenguage</option>
+                    <option value="lengua">Language</option>
                     <option value="matemáticas">Maths</option>
                     <option value="naturales">Natural Sciences</option>
                     <option value="sociales">Social Sciences</option>

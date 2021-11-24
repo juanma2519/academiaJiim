@@ -83,11 +83,11 @@
     <div class='gold gold_left_plus'>
       <a class="a_left" href="#form">
         <h2 class="jimmclassname">Jiim Class</h2>
-        <p>Numero minimo de clases</p>
+        <p>Número mínimo de clases</p>
         <span>2 clases a la semana</span>
         <p>Cada alumno es único</p>
         <span>Adaptación curricular</span>
-        <p>Contenido unico para las clases</p>
+        <p>Contenido único para las clases</p>
         <span>Contenido Propio</span>
         <div class='price price_left'>14,99€</div>
         <h2>Clase de 1H</h2>
@@ -149,7 +149,7 @@
             <div class="card">
               <h3>Grammar&Vocabulary</h3>
               <p>
-              Para llevar a cabo un correcto uso del inglés,
+              Para llevar a cabo un correcto uso del Inglés,
               es preciso dominar correctamente la gramática
               y el vocabulario. Empezaremos por cosas sencillas,
               ¡no te asustes! 
@@ -195,7 +195,7 @@
                 <div>
                   <label for="country" class="subject_label">Asignatura</label>
                   <select id="classrom" name="classrom">
-                    <option value="lengua">Lenguage</option>
+                    <option value="lengua">Language</option>
                     <option value="matemáticas">Maths</option>
                     <option value="naturales">Natural Sciences</option>
                     <option value="sociales">Social Sciences</option>
@@ -219,7 +219,7 @@
             <p class="phone_text"><i class="fa fa-phone"></i> Llama ahora al <a href="tel:608249965" class="phone_number">608249965</a></p>
           </div>
           <div class="column3 column3_2">
-            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> Mándanos un whatsapp!</p></a>
+            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> ¡Mándanos un whatsapp!</p></a>
           </div>
     </section>
     <section>
@@ -248,7 +248,7 @@
             <h2>Clase de 1H</h2>
           </ul>
           <ul class="columns_price">
-            <p>Numero minimo de clases</p>
+            <p>Número mínimo de clases</p>
             <span>2 clases a la semana</span>
           </ul>
           <ul class="columns_price">
@@ -256,7 +256,7 @@
             <span>Adaptación curricular</span>
           </ul>
           <ul class="columns_price">
-            <p>Contenido unico para las clases</p>
+            <p>Contenido único para las clases</p>
             <span>Contenido Propio</span>
           </ul>
           <ul class="columns_price"> 

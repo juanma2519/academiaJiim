@@ -84,11 +84,11 @@
     <div class='gold'>
       <a class="a_left" href="#form">
         <h2 class="jimmclassname">Jiim Class</h2>
-        <p>Numero minimo de clases</p>
+        <p>Número mínimo de clases</p>
         <span>2 clases a la semana</span>
         <p>Cada alumno es único</p>
         <span>Adaptación curricular</span>
-        <p>Contenido unico para las clases</p>
+        <p>Contenido único para las clases</p>
         <span>Contenido Propio</span>
         <div class='price'>14,99€</div>
         <h2>Clase de 1H</h2>
@@ -106,7 +106,7 @@
             <p>
             Podrás <b>reforzar lo que ya has aprendido, ampliar más tus conocimientos</b> a través de nuevos contenidos,
             y aprender a utilizarlo en tu día a día. Si lo que necesitas es un poco de ayuda para afianzar los contenidos 
-            que recibes en clase, ésta también es tu academia. <b>Se acabó el ir flojo con esta asignatura.</b>
+            que recibes en clase, ésta también es tu academia. <b>Se acabó el ir flojo en esta asignatura.</b>
             En nuestra academia online adaptamos las clases y la metodología a los/as estudiantes, <b>todo a través del ordenador. </b>
             </p>
           </article>
@@ -159,12 +159,12 @@
       </div>
     </section>
     <section>
-    <h2 class="tituloParrafo">En Jiim trabajamos con el mejor contenido y material..</h2>
+    <h2 class="tituloParrafo">En Jiim trabajamos con el mejor contenido y material...</h2>
       <p>
       Trabajamos los contenidos de manera eficaz, y <b>con una metodología centrada principalmente en las necesidades</b> del alumno/a. 
       Todo ello sin dejar de lado un aspecto muy relevante: <b>pasarlo bien aprendiendo. </b>El inglés es divertido e interesante, 
       a la par que útil y necesario. Para nosotros es muy importante <b>ofrecerte unas clases dinámicas y entretenidas, </b>
-      a la par que productivas y llenas de conocimiento. Nuestros docentes cuentan con la experiencia y didáctica 
+      así como productivas y llenas de conocimiento. Nuestros docentes cuentan con la experiencia y didáctica 
       necesarias para poder impartir este idioma de una manera activa, ya que <b>nos preocupa tu aprendizaje.</b>
       </p>
     </section>
@@ -186,7 +186,7 @@
               <div class="row">
                 <div>
                   <label for="lname" class="subject_label">Email</label>
-                  <input type="email" id="email" name="email" placeholder="Tú email.." required >
+                  <input type="email" id="email" name="email" placeholder="Tu email.." required >
                 </div>
               </div>
               <div class="row">
@@ -195,7 +195,7 @@
                 <div>
                   <label for="country" class="subject_label">Asignatura</label>
                   <select id="classrom" name="classrom">
-                    <option value="lengua">Lenguage</option>
+                    <option value="lengua">Language</option>
                     <option value="matemáticas">Maths</option>
                     <option value="naturales">Natural Sciences</option>
                     <option value="sociales">Social Sciences</option>
@@ -218,7 +218,7 @@
             <p class="phone_text"><i class="fa fa-phone"></i> Llama ahora al <a href="tel:608249965" class="phone_number">608249965</a></p>
           </div>
           <div class="column3 column3_2">
-            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> Mándanos un whatsapp!</p></a>
+            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> ¡Mándanos un whatsapp!</p></a>
           </div>
     </section>
       <h3 class="tituloParrafo2">
@@ -231,7 +231,7 @@
       esfuerzo cada vez que quieras asistir, en otras palabras: <b>proporcionarte 
       una mejor calidad de vida.</b> Y, ¿quién no quiere tener más tiempo para sí mismo/a? 
       No dudes en <b>contactar con nosotros</b> para informarte más acerca de nuestra academia online. 
-      Estamos aquí <b>ara resolver todas tus cuestiones.</b> Y recuerda que el inglés no es 
+      Estamos aquí <b>para resolver todas tus cuestiones.</b> Y recuerda que el inglés no es 
       sinónimo de aburrimiento, ¡todo lo contrario! <b>Aprender es divertido, 
       y con Jiim está al alcance de tu mano.</b>
       </p>
@@ -243,7 +243,7 @@
             <h2>Clase de 1H</h2>
           </ul>
           <ul class="columns_price">
-            <p>Numero minimo de clases</p>
+            <p>Número mínimo de clases</p>
             <span>2 clases a la semana</span>
           </ul>
           <ul class="columns_price">
@@ -251,7 +251,7 @@
             <span>Adaptación curricular</span>
           </ul>
           <ul class="columns_price">
-            <p>Contenido unico para las clases</p>
+            <p>Contenido único para las clases</p>
             <span>Contenido Propio</span>
           </ul>
           <ul class="columns_price"> 

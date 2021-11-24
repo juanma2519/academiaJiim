@@ -353,8 +353,8 @@
           </article>
           <article class="cubo cubo-inicio cubo-3 col-right asignatura-texto">
             <p>
-            <b>Aprende desde lo más básico del nivel a1 de gramatica hasta el nivel c1 de gramática en inglés.</b> Te enseñamos todo lo necesario en clases prácticas y desde 
-                la comodidad de tu casa. Te mostramos todos los trucos para perfeccionar los verbos y entender mejor la estructura del inglés.
+            <b>En gramática, aprende desde lo más básico (nivel A1)  hasta el nivel más alto (nivel C1) en inglés.</b> Te enseñamos todo lo necesario en clases prácticas y desde 
+                la comodidad de tu casa. Te mostramos todos los trucos para perfeccionar los verbos y entender mejor la estructura del Inglés.
             </p>
           </article>
           <article class="cubo cubo-inicio cubo-3 col-left">
@@ -367,19 +367,19 @@
             <h3 class="titulo-asignatura">Grammar</h3>
           </article>
         </div>
-        <h2 class="tituloParrafo">Descubre nuestra academia online de inglés en todos los niveles.</h2>
+        <h2 class="tituloParrafo">Descubre nuestra academia online de Inglés en todos los niveles.</h2>
         <p>
-          <b>Si deseas entrar en nuestra academia online de inglés,</b> no dudes en contactar 
-          con nosotros a traves de nuestro teléfono y nuestro correo electrónico. <b>Porque te queremos ayudar a mejorar tu nivel de inglés</b>
-          y en eso no hay nadie mejor que nosotros!
+          <b>Si deseas entrar en nuestra academia online de Inglés,</b> no dudes en contactar 
+          con nosotros a través de nuestro teléfono y/o nuestro correo electrónico. <b>Porque te queremos ayudar a mejorar tu nivel en este idioma,</b>
+          ¡y en eso no hay nadie mejor que nosotros!
         </p>
         <h3 class="tituloParrafo2">
           Mejora tu nivel de Inglés. Nosotros somos tu apoyo fundamental.
         </h3>
         <p>
-        <b>Te ayudamos a mejorar el nivel de tu inglés.</b> Si no sabes como empezar, <b>nosotros te eneseñamos.</b> Si ya tienes un nivel y quieres seguir avanzando, <b>nosotros
-          lo retomamos contigo, no hay excusas.</b> Si quieres terminar de perfeccionar el idioma y tener un idioma nativo, <b>nosotros somos ese entrenador duro</b> que busca
-          la perfección en cada listening, en cada reading y en cada speaking. 
+        <b>Te ayudamos a mejorar el nivel de tu Inglés.</b> Si no sabes cómo empezar, <b>nosotros te eneseñamos.</b> Si ya tienes un nivel y quieres seguir avanzando, <b>nosotros
+          lo retomamos contigo, no hay excusas.</b> Si quieres terminar de perfeccionar el idioma y desenvolverte como un nativo, <b>nosotros somos ese entrenador eficaz,</b> que busca
+          la perfección en cada listening, reading y speaking. 
         </p>
       </section>
       <div class="columns">
@@ -389,7 +389,7 @@
             <h2>Clase de 1H</h2>
           </ul>
           <ul class="columns_price">
-            <p>Numero minimo de clases</p>
+            <p>Número mínimo de clases</p>
             <span>2 clases a la semana</span>
           </ul>
           <ul class="columns_price">
@@ -397,7 +397,7 @@
             <span>Adaptación curricular</span>
           </ul>
           <ul class="columns_price">
-            <p>Contenido unico para las clases</p>
+            <p>Contenido único para las clases</p>
             <span>Contenido Propio</span>
           </ul>
           <ul class="columns_price"> 

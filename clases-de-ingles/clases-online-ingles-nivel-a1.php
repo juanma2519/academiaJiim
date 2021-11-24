@@ -87,11 +87,11 @@ include("../keys.php");
     <div class='gold'>
       <a class="a_left" href="#form">
         <h2 class="jimmclassname">Jiim Class</h2>
-        <p>Numero minimo de clases</p>
+        <p>Número mínimo de clases</p>
         <span>2 clases a la semana</span>
         <p>Cada alumno es único</p>
         <span>Adaptación curricular</span>
-        <p>Contenido unico para las clases</p>
+        <p>Contenido único para las clases</p>
         <span>Contenido Propio</span>
         <div class='price'>14,99€</div>
         <h2>Clase de 1H</h2>
@@ -122,7 +122,7 @@ include("../keys.php");
             <div class="card">
               <h3>Listening</h3>
               <p>
-               Lo más importante es hacer al odio a este idioma,
+               Lo más importante es hacer el oído a este idioma,
                te pondremos ejercicios de listening y te ayudaremos
                a elegir series, música y películas en Inglés.
               </p>
@@ -132,7 +132,7 @@ include("../keys.php");
             <div class="card">
               <h3>Writting</h3>
               <p>
-              Aprende técnicas de escritura, para recordar la morfologia
+              Aprende técnicas de escritura, para recordar la morfología
               del Inglés. En Jiim nos tomamos muy en serio tu técnica
               a la hora de redactar en Inglés.
               </p>
@@ -154,7 +154,7 @@ include("../keys.php");
               <p>
               La gramática es la espinita del Inglés.
               En Jiim te ayudamos a solventar los problemas
-              de las reglas del Inglés y sus conjugaciones y verbos.
+              de las reglas del Inglés, sus conjugaciones y sus verbos.
               </p>
             </div>
           </div>
@@ -191,7 +191,7 @@ include("../keys.php");
               <div class="row">
                 <div>
                   <label for="lname" class="subject_label">Email</label>
-                  <input type="email" id="email" name="email" placeholder="Tú email.." required >
+                  <input type="email" id="email" name="email" placeholder="Tu email.." required >
                 </div>
               </div>
               <div class="row">
@@ -200,7 +200,7 @@ include("../keys.php");
                 <div>
                   <label for="country" class="subject_label">Asignatura</label>
                   <select id="classrom" name="classrom">
-                    <option value="lengua">Lenguage</option>
+                    <option value="lengua">Language</option>
                     <option value="matemáticas">Maths</option>
                     <option value="naturales">Natural Sciences</option>
                     <option value="sociales">Social Sciences</option>
@@ -223,11 +223,11 @@ include("../keys.php");
             <p class="phone_text"><i class="fa fa-phone"></i> Llama ahora al <a href="tel:608249965" class="phone_number">608249965</a></p>
           </div>
           <div class="column3 column3_2">
-            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> Mándanos un whatsapp!</p></a>
+            <a  href="https://api.whatsapp.com/send?phone=+34608249965" class="phone_number"><p class="phone_text"><i class="fa fa-whatsapp"></i> ¡Mándanos un whatsapp!</p></a>
           </div>
     </section>
       <h3 class="tituloParrafo2">
-        Tu nivel de Inglés A1 a un click!
+        ¡Tu nivel de Inglés A1 a un click!
       </h3>
       <p>
       Al ser una <b>academia online de inglés</b>, Jiim ofrece las mayores facilidades y
@@ -243,7 +243,7 @@ include("../keys.php");
             <h2>Clase de 1H</h2>
           </ul>
           <ul class="columns_price">
-            <p>Numero minimo de clases</p>
+            <p>Número mínimo de clases</p>
             <span>2 clases a la semana</span>
           </ul>
           <ul class="columns_price">
@@ -251,7 +251,7 @@ include("../keys.php");
             <span>Adaptación curricular</span>
           </ul>
           <ul class="columns_price">
-            <p>Contenido unico para las clases</p>
+            <p>Contenido único para las clases</p>
             <span>Contenido Propio</span>
           </ul>
           <ul class="columns_price"> 
